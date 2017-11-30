@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<!--[if IE 9]>
+<!--[if IE 9] test>
 <html class="ie9" lang="en">    <![endif]-->
 <!--[if IE 8]>
 <html class="ie8" lang="en">    <![endif]-->
