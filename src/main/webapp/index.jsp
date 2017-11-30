@@ -359,22 +359,22 @@
 <div id="image-cache" class="hidden"></div>
 
 <!-- JS -->
-<script src="assets/vendor/jquery/js/jquery-2.2.0.min.js"            type="text/javascript"></script>
-<script src="assets/vendor/bootstrap/js/bootstrap.min.js"            type="text/javascript"></script>
-<script src="assets/vendor/imagesloaded/js/imagesloaded.pkgd.min.js" type="text/javascript"></script>
-<script src="assets/vendor/isotope/js/isotope.pkgd.min.js"           type="text/javascript"></script>
-<script src="assets/vendor/mfp/js/jquery.magnific-popup.min.js"      type="text/javascript"></script>
-<script src="assets/vendor/circle-progress/circle-progress.js"       type="text/javascript"></script>
-<script src="assets/vendor/waypoints/waypoints.min.js"               type="text/javascript"></script>
-<script src="assets/vendor/anicounter/jquery.counterup.min.js"       type="text/javascript"></script>
-<script src="assets/vendor/wow/wow.min.js"                           type="text/javascript"></script>
-<script src="assets/vendor/pjax/jquery.pjax.js"                      type="text/javascript"></script>
-<script src="https://maps.google.com/maps/api/js"                    type="text/javascript"></script>
+<script src="resources/vendor/jquery/js/jquery-2.2.0.min.js"            type="text/javascript"></script>
+<script src="resources/vendor/bootstrap-3.3.2/dist/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="resources/vendor/imagesloaded/js/imagesloaded.pkgd.min.js" type="text/javascript"></script>
+<script src="resources/vendor/isotope/js/isotope.pkgd.min.js"           type="text/javascript"></script>
+<script src="resources/vendor/mfp/js/jquery.magnific-popup.min.js"      type="text/javascript"></script>
+<script src="resources/vendor/circle-progress/circle-progress.js"       type="text/javascript"></script>
+<script src="resources/vendor/waypoints/waypoints.min.js"               type="text/javascript"></script>
+<script src="resources/vendor/anicounter/jquery.counterup.min.js"       type="text/javascript"></script>
+<script src="resources/vendor/wow/wow.min.js"                           type="text/javascript"></script>
+<script src="resources/vendor/pjax/jquery.pjax.js"                      type="text/javascript"></script>
+<script src="https://maps.google.com/maps/api/js"                    	type="text/javascript"></script>
+
 <!-- Remove this for disable demo panel script -->
 <!--<script src="assets/vendor/styleselector/styleselector.js"           type="text/javascript"></script>-->
 <!-- Custom scripts -->
-<script src="assets/custom/js/custom.js"                             type="text/javascript"></script>
-
+<script src="resources/custom/js/custom.js"                             type="text/javascript"></script>
 </body>
 
 </html>
