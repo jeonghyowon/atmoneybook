@@ -23,7 +23,7 @@
    <link href="resources/vendor/wow/animate.css"                        property='stylesheet' rel="stylesheet" type="text/css" media="screen"/>   
    <link href="resources/vendor/mfp/css/magnific-popup.css"             property='stylesheet' rel="stylesheet" type="text/css" media="screen"/>   
    <!-- Remove this for disable demo panel styles -->
-   <!--<link href="assets/vendor/styleselector/styleselector.css"        property='stylesheet' rel="stylesheet" type="text/css" media="screen"/>-->
+   <!--<link href="resume.jsp/vendor/styleselector/styleselector.css"        property='stylesheet' rel="stylesheet" type="text/css" media="screen"/>-->
    <!-- Custom styles -->
    <link href="resources/custom/css/style.css"                          property='stylesheet' rel="stylesheet" type="text/css" media="screen"/>
 
@@ -36,7 +36,7 @@
          width: 100%;
          height: 100%;
          overflow: visible;
-         background: #666666 url("assets/custom/images/preloader.gif") no-repeat center center; }
+         background: #666666 url("resources/custom/images/preloader.gif") no-repeat center center; }
    </style>
 
 </head>
@@ -350,7 +350,7 @@
       <div class="dividewhite1"></div>
       <div class="row wow fadeInDown" data-wow-delay=".4s" data-wow-offset="10">
          <div class="col-md-12 copyrights">
-            <p>Â© 2016 Samuel Anderson.</p>
+            <p>© 2016 Samuel Anderson.</p>
          </div>
       </div>
    </div>
@@ -372,7 +372,7 @@
 <script src="https://maps.google.com/maps/api/js"                    	type="text/javascript"></script>
 
 <!-- Remove this for disable demo panel script -->
-<!--<script src="assets/vendor/styleselector/styleselector.js"           type="text/javascript"></script>-->
+<!--<script src="resources/vendor/styleselector/styleselector.js"           type="text/javascript"></script>-->
 <!-- Custom scripts -->
 <script src="resources/custom/js/custom.js"                             type="text/javascript"></script>
 </body>
