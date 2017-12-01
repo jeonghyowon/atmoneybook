@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en">
 <!--[if IE 9] test>
 <html class="ie9" lang="en">    <![endif]-->
@@ -9,7 +11,7 @@
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name=viewport content="width=device-width, initial-scale=1">
 
-   <title>Gridus vCard | Home</title>
+   <title>Home</title>
 
    <meta name="description" content="Gridus vCard HTML Template is the professional responsive personal website template, based on the latest Bootstrap 3">
    <meta name="keywords" content="html5, template, website, responsive, bootstrap">
@@ -91,10 +93,10 @@
 
             <ul id="nav" class="row nopadding cd-side-navigation">
                <li class="col-xs-4 col-sm-2 nopadding menuitem green">
-                  <a href="index.html" class="hvr-sweep-to-bottom"><i class="flaticon-insignia"></i><span>home</span></a>
+                  <a href="index.jsp" class="hvr-sweep-to-bottom"><i class="flaticon-insignia"></i><span>home</span></a>
                </li>
                <li class="col-xs-4 col-sm-2 nopadding menuitem blue">
-                  <a href="resume.html" class="hvr-sweep-to-bottom"><i class="flaticon-graduation61"></i><span>resume</span></a>
+                  <a href="resume.jsp" class="hvr-sweep-to-bottom"><i class="flaticon-graduation61"></i><span>resume</span></a>
                </li>
                <li class="col-xs-4 col-sm-2 nopadding menuitem cyan">
                   <a href="portfolio.html" class="hvr-sweep-to-bottom"><i class="flaticon-book-bag2"></i><span>portfolio</span></a>
@@ -350,7 +352,7 @@
       <div class="dividewhite1"></div>
       <div class="row wow fadeInDown" data-wow-delay=".4s" data-wow-offset="10">
          <div class="col-md-12 copyrights">
-            <p>© 2016 Samuel Anderson.</p>
+            <p>Â© 2016 Samuel Anderson.</p>
          </div>
       </div>
    </div>
