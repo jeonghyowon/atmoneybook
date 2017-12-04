@@ -11,7 +11,7 @@
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name=viewport content="width=device-width, initial-scale=1">
 
-   <title>Resume</title>
+   <title>Contacts</title>
 
    <meta name="description" content="Gridus vCard HTML Template is the professional responsive personal website template, based on the latest Bootstrap 3">
    <meta name="keywords" content="html5, template, website, responsive, bootstrap">
@@ -124,176 +124,72 @@
 <!-- Container -->
 <div class="content-wrap">
 
-   <div id="resume" class="inner-content">
+   <div id="contacts" class="inner-content">
 
       <section id="page-title" class="inner-section">
-         <div class="container-fluid nopadding wow fadeInRight" data-wow-delay="0.2s" data-wow-offset="10">
-            <h2 class="font-accident-two-normal uppercase">Resume</h2>
+         <div class="container-fluid nopadding wow fadeInRight" data-wow-delay="0.4s" data-wow-offset="10">
+            <h2 class="font-accident-two-normal uppercase">Contacts</h2>
             <h5 class="font-accident-one-bold hovercolor uppercase">Hard-working person on the way to the success...</h5>
             <p class="small fontcolor-medium">
                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id metus purus. Ut vulputate, est vel tincidunt mattis, orci neque iaculis lectus, et interdum quam felis vel tortor. Fusce ultrices dui quis nunc dignissim faucibus. Ut ac odio quis nibh viverra fringilla ac id nisi. Suspendisse tincidunt augue quis ligula cursus, non efficitur ligula faucibus. Mauris id neque maximus, tincidunt metus et, sodales nulla.
             </p>
-            <div class="dividewhite2"></div>
          </div>
       </section>
 
-      <!-- Details Block -->
-      <section id="m-details" class="inner-section color01">
-
+      <section id="contacts-data" class="inner-block">
          <div class="container-fluid nopadding">
-
-            <div class="wow fadeInDown" data-wow-delay="0.4s" data-wow-offset="10">
-               <h3 class="font-accident-two-normal uppercase text-center">Personal qualities</h3>
-               <p class="small text-center fontcolor-medium">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id metus purus.
-               </p>
-               <div class="dividewhite4"></div>
-            </div>
-
-
-
             <div class="row">
-               <div class="col-md-3 infoblock text-center wow fadeInLeft" data-wow-delay="0.6s" data-wow-offset="10">
+               <div class="col-md-6 wow fadeInLeft" data-wow-delay="0.6s" data-wow-offset="10">
                   <div class="row">
-                     <div class="col-md-12"><i class="flaticon-photo246"></i></div>
-                     <div class="col-md-12">
-                        <div class="dividewhite1"></div>
-                        <h5 class="font-accident-one-bold uppercase">Creative</h5>
-                        <p class="small">
-                           For extreme size changes, we may want to change the layout altogether, either through a
-                           separate style sheet or, more efficiently, through a CSS media query.
-                        </p>
-                     </div>
+                     <div class="col-sm-2"><span class="font-accident-two-bold uppercase">Address:</span></div>
+                     <div class="col-sm-10"><p class="small">12234 Direct Drive, Daytona Beach, Fl USA</p></div>
                   </div>
-                  <div class="divider-dynamic"></div>
+                  <div class="row">
+                     <div class="col-sm-2"><span class="font-accident-two-bold uppercase">Phone:</span></div>
+                     <div class="col-sm-10"><p class="small">1 234 567-64-35</p></div>
+                  </div>
+                  <div class="row">
+                     <div class="col-sm-2"><span class="font-accident-two-bold uppercase">Skype:</span></div>
+                     <div class="col-sm-10"><p class="small">@samanderson</p></div>
+                  </div>
                </div>
-               <div class="col-md-3 infoblock text-center wow fadeInUp" data-wow-delay="0.6s" data-wow-offset="10">
+               <div class="col-md-6 wow fadeInLeft" data-wow-delay="0.6s" data-wow-offset="10">
                   <div class="row">
-                     <div class="col-md-12"><i class="flaticon-pie-graph"></i></div>
-                     <div class="col-md-12">
-                        <div class="dividewhite1"></div>
-                        <h5 class="font-accident-one-bold uppercase">Self-motivated</h5>
-                        <p class="small">
-                           It is possible to shrink things proportionally and rearrange elements as necessary to make
-                           everything fit (reasonably well) as a screen gets smaller.
-                        </p>
-                     </div>
+                     <div class="col-sm-2"><span class="font-accident-two-bold uppercase">Twitter:</span></div>
+                     <div class="col-sm-10"><p class="small"><a href="#!">https://twitter.com/samanderson</a></p></div>
                   </div>
-                  <div class="divider-dynamic"></div>
-               </div>
-               <div class="col-md-3 infoblock text-center wow fadeInUp" data-wow-delay="0.6s" data-wow-offset="10">
                   <div class="row">
-                     <div class="col-md-12"><i class="flaticon-clocks18"></i></div>
-                     <div class="col-md-12">
-                        <div class="dividewhite1"></div>
-                        <h5 class="font-accident-one-bold uppercase">Punctual</h5>
-                        <p class="small">
-                           Below we have a few examples of responsive Web design in practice today. For many of these
-                           websites, there is more variation.
-                        </p>
-                     </div>
+                     <div class="col-sm-2"><span class="font-accident-two-bold uppercase">Facbook:</span></div>
+                     <div class="col-sm-10"><p class="small"><a href="#!">https://www.facebook.com/samanderson</a></p></div>
                   </div>
-                  <div class="divider-dynamic"></div>
-               </div>
-               <div class="col-md-3 infoblock text-center wow fadeInRight" data-wow-delay="0.6s" data-wow-offset="10">
                   <div class="row">
-                     <div class="col-md-12"><i class="flaticon-stats47"></i></div>
-                     <div class="col-md-12">
-                        <div class="dividewhite1"></div>
-                        <h5 class="font-accident-one-bold uppercase">Multitask</h5>
-                        <p class="small">
-                           One major problem that needs to be solved with responsive Web design is working with images.
-                           There are a number of techniques.
-                        </p>
-                     </div>
+                     <div class="col-sm-2"><span class="font-accident-two-bold uppercase">Linkedin:</span></div>
+                     <div class="col-sm-10"><p class="small"><a href="#!">https://www.linkedin.com/samanderson</a></p></div>
                   </div>
-                  <div class="divider-dynamic"></div>
                </div>
             </div>
-
-            <div class="dividewhite2"></div>
-
          </div>
-
       </section>
-      <!-- /§Details Block -->
 
-      <!-- Timeline Block -->
-      <section id="timeline-vertical" class="inner-section">
+      <!-- Google Map Block -->
+      <section id="contacts-map" class="inner-section">
 
          <div class="container-fluid nopadding">
 
-            <div class="text-center wow fadeInDown" data-wow-delay="0.6s" data-wow-offset="10">
-               <h3 class="font-accident-two-normal uppercase">Professional Timeline</h3>
-               <h5 class="font-accident-one-bold uppercase hovercolor">Working hard and making the success</h5>
-               <div class="dividewhite1"></div>
-               <p class="small fontcolor-medium">
-                  Customize your website as you want using different colors and 100% free fonts. Build it from pieces and
-                  blocks as simple as Lego. <br>
-                  Electronic Website Template is fully responsive, looks and works perfect on any device.
-               </p>
+            <!-- Google Map -->
+            <div class="wow fadeInDown" data-wow-delay="0.8s" data-wow-offset="10">
+               <div id="gm-panel">
+                  <div id="google-map" class="bigmap"></div>
+               </div>
             </div>
-
-            <div class="dividewhite4"></div>
-
-            <ul class="timeline-vert timeline-light">
-               <li>
-                  <div class="timeline-badge primary"><i class="flaticon-clocks18"></i></div>
-                  <div class="timeline-panel wow fadeInLeft" data-wow-delay="0.3s" data-wow-offset="10">
-                     <p class="timeline-time fontcolor-invert"><i class="glyphicon glyphicon-time"></i> Aug 2010 - Nov 2012</p>
-                     <div class="timeline-photo timeline-bg01-01"></div>
-                     <div class="timeline-heading">
-                        <h3 class="font-accident-two-normal uppercase">Bluepixel LLC, London</h3>
-                        <h6 class="uppercase">Junior Designer</h6>
-                     </div>
-                  </div>
-               </li>
-               <li class="timeline-inverted">
-                  <div class="timeline-badge success"><i class="flaticon-graduation61"></i></div>
-                  <div class="timeline-panel wow fadeInRight" data-wow-delay="0.3s" data-wow-offset="10">
-                     <p class="timeline-time fontcolor-invert"><i class="glyphicon glyphicon-time"></i> March 2013 - Jan 2014</p>
-                     <div class="timeline-photo timeline-bg02-01"></div>
-                     <div class="timeline-heading">
-                        <h3 class="font-accident-two-normal uppercase">Rocket Media, Berlin</h3>
-                        <h6 class="uppercase">Senior Designer</h6>
-                     </div>
-                  </div>
-               </li>
-               <li>
-                  <div class="timeline-badge danger"><i class="flaticon-pens15"></i></div>
-                  <div class="timeline-panel wow fadeInLeft" data-wow-delay="0.3s" data-wow-offset="10">
-                     <p class="timeline-time fontcolor-invert"><i class="glyphicon glyphicon-time"></i> Jul 2014 - Sep 2015</p>
-                     <div class="timeline-photo timeline-bg03-01"></div>
-                     <div class="timeline-heading">
-                        <h3 class="font-accident-two-normal uppercase">Digital Frog, Wien</h3>
-                        <h6 class="uppercase">Art Director</h6>
-                     </div>
-                  </div>
-               </li>
-               <li class="timeline-inverted info">
-                  <div class="timeline-badge warning"><i class="flaticon-profile5"></i></div>
-                  <div class="timeline-panel wow fadeInRight" data-wow-delay="0.3s" data-wow-offset="10">
-                     <p class="timeline-time fontcolor-invert"><i class="glyphicon glyphicon-time"></i> Sep 2015 - ...</p>
-                     <div class="timeline-photo timeline-bg04-01"></div>
-                     <div class="timeline-heading">
-                        <h3 class="font-accident-two-normal uppercase">Melted Digital, Paris</h3>
-                        <h6 class="uppercase">Head of UX Department</h6>
-                     </div>
-                  </div>
-               </li>
-
-            </ul>
-
-            <div class="text-center">
-               <a href="#!" class="btn btn-lgr-str">Learn More</a>
-            </div>
-
-            <div class="dividewhite6"></div>
+            <!-- /Google Map -->
 
          </div>
 
+         <div class="dividewhite8"></div>
+
       </section>
-      <!-- /Timeline Block -->
+      <!-- /Google Map Block -->
 
    </div>
 

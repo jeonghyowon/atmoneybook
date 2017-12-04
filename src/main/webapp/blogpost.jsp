@@ -11,7 +11,7 @@
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name=viewport content="width=device-width, initial-scale=1">
 
-   <title>Resume</title>
+   <title>Blog Post</title>
 
    <meta name="description" content="Gridus vCard HTML Template is the professional responsive personal website template, based on the latest Bootstrap 3">
    <meta name="keywords" content="html5, template, website, responsive, bootstrap">
@@ -124,176 +124,163 @@
 <!-- Container -->
 <div class="content-wrap">
 
-   <div id="resume" class="inner-content">
+   <div id="blogpost" class="inner-content">
 
       <section id="page-title" class="inner-section">
-         <div class="container-fluid nopadding wow fadeInRight" data-wow-delay="0.2s" data-wow-offset="10">
-            <h2 class="font-accident-two-normal uppercase">Resume</h2>
-            <h5 class="font-accident-one-bold hovercolor uppercase">Hard-working person on the way to the success...</h5>
-            <p class="small fontcolor-medium">
-               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id metus purus. Ut vulputate, est vel tincidunt mattis, orci neque iaculis lectus, et interdum quam felis vel tortor. Fusce ultrices dui quis nunc dignissim faucibus. Ut ac odio quis nibh viverra fringilla ac id nisi. Suspendisse tincidunt augue quis ligula cursus, non efficitur ligula faucibus. Mauris id neque maximus, tincidunt metus et, sodales nulla.
-            </p>
-            <div class="dividewhite2"></div>
+         <div class="container-fluid nopadding wow fadeInRight" data-wow-delay="0.4s" data-wow-offset="10">
+            <h2 class="font-accident-two-normal uppercase">MY FRIEND'S NEW ALBUM DESIGN</h2>
+            <div class="post-meta"><span>by <a href="#!">Sam Anderson</a>,</span> <span>March 16, 2015</span></div>
+            <div class="post-tag pull-left"><span><a>Branding</a>,</span><span><a>Design</a></span></div>
          </div>
       </section>
 
-      <!-- Details Block -->
-      <section id="m-details" class="inner-section color01">
+      <!-- Blog Block -->
+      <section class="inner-section">
 
          <div class="container-fluid nopadding">
 
-            <div class="wow fadeInDown" data-wow-delay="0.4s" data-wow-offset="10">
-               <h3 class="font-accident-two-normal uppercase text-center">Personal qualities</h3>
-               <p class="small text-center fontcolor-medium">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id metus purus.
+            <img src="resources/custom/images/blog/01.jpg" class="img-responsive wow fadeInDown" data-wow-delay="0.6s" data-wow-offset="10">
+
+            <article class="post wow fadeInDown" data-wow-delay="0.6s" data-wow-offset="10">
+
+               <div class="dividewhite6"></div>
+
+               <!-- Post Content -->
+               <p>
+                  The system utilised prefabricated light gauge steel frames which could be built economically up to a maximum of 4 storeys. The frames were finished in a variety of claddings and their modular nature could be employed to produce architecturally satisfying buildings. Initially developed solely for schools, the system was also used to provide offices and housing. Important examples include many of the Hertfordshire schools, some of which have since been listed.
                </p>
+               <p>
+                  Another notable use of CLASP is the University of York, designed by architect Andrew Derbyshire. A later development was known as SCOLA (Second Consortium of Local Authorities) and MACE (Metropolitan Architectural Consortium for Education). The cynics' definition of the CLASP acronym, circulating in the 1970s, was "collection of loosely assembled steel parts". Langwith College, University of York. A notable use of the CLASP system. Vanbrugh College, University of York.
+               </p>
+               <p>
+                  The system utilised prefabricated light gauge steel frames which could be built economically up to a maximum of 4 storeys. The frames were finished in a variety of claddings and their modular nature could be employed to produce architecturally satisfying buildings. Initially developed solely for schools, the system was also used to provide offices and housing. Important examples include many of the Hertfordshire schools, some of which have since been listed.
+               </p>
+               <p>
+                  Another notable use of CLASP is the University of York, designed by architect Andrew Derbyshire. A later development was known as SCOLA (Second Consortium of Local Authorities) and MACE (Metropolitan Architectural Consortium for Education). The cynics' definition of the CLASP acronym, circulating in the 1970s, was "collection of loosely assembled steel parts". Langwith College, University of York. A notable use of the CLASP system. Vanbrugh College, University of York.
+               </p>
+               <!-- /Post Content -->
+
                <div class="dividewhite4"></div>
+               <hr>
+
+            </article>
+
+
+
+            <div id="comments" class="wow fadeInDown" data-wow-delay="0.6s" data-wow-offset="10">
+               <h4 class="font-accident-one-light uppercase">4 comments:</h4>
+
+               <div class="dividewhite4"></div>
+
+               <ul class="media-list">
+
+                  <li class="media">
+                     <div class="media-left">
+                        <a href="#">
+                           <img class="media-object"  alt="64x64" src="resources/custom/images/userpic02.jpg">
+                        </a>
+                     </div>
+                     <div class="media-body">
+                        <div class="post-data">
+                           <div class="post-date">2014 Jun, 14</div>
+                           <div class="post-author"><a href="#">Alisia Silverstone</a></div>
+                        </div>
+                        <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis.</p>
+                        <p><a href="#">Log In to Reply</a></p>
+
+                        <!-- Nested media object -->
+                        <div class="media">
+                           <div class="media-left">
+                              <a href="#">
+                                 <img class="media-object" alt="64x64" src="resources/custom/images/userpic03.jpg">
+                              </a>
+                           </div>
+                           <div class="media-body">
+                              <div class="post-data">
+                                 <div class="post-date">2014 Jun, 14</div>
+                                 <div class="post-author"><a href="#">Amanda Quinn</a></div>
+                              </div>
+                              <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis.</p>
+                              <p><a href="#">Log In to Reply</a></p>
+                              <!-- Nested media object -->
+                              <div class="media">
+                                 <div class="media-left">
+                                    <a href="#">
+                                       <img class="media-object" data-src="holder.js/64x64" alt="64x64" src="resources/custom/images/userpic02.jpg">
+                                    </a>
+                                 </div>
+                                 <div class="media-body">
+                                    <div class="post-data">
+                                       <div class="post-date">2014 Jun, 14</div>
+                                       <div class="post-author"><a href="#">Alessandra James</a></div>
+                                    </div>
+                                    <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis.</p>
+                                    <p><a href="#">Log In to Reply</a></p>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <!-- Nested media object -->
+                        <div class="media">
+                           <div class="media-left">
+                              <a href="#">
+                                 <img class="media-object" data-src="holder.js/64x64" alt="64x64" src="resources/custom/images/userpic04.jpg">
+                              </a>
+                           </div>
+                           <div class="media-body">
+                              <div class="post-data">
+                                 <div class="post-date">2014 Jun, 14</div>
+                                 <div class="post-author"><a href="#">Misha Fergusson</a></div>
+                              </div>
+                              <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis.</p>
+                              <p><a href="#">Log In to Reply</a></p>
+                           </div>
+                        </div>
+                     </div>
+                  </li>
+               </ul>
+
+               <div class="dividewhite6"></div>
+               <hr>
+               <div class="dividewhite2"></div>
+
             </div>
 
 
 
-            <div class="row">
-               <div class="col-md-3 infoblock text-center wow fadeInLeft" data-wow-delay="0.6s" data-wow-offset="10">
+            <div class="wow fadeInDown" data-wow-delay="0.6s" data-wow-offset="10">
+
+               <div id="post-comment">
+                  <h4 class="font-accident-one-light uppercase">Leave a Comment</h4>
+               </div>
+               <div class="dividewhite2"></div>
+
+               <form action="#" method="post" novalidate="novalidate">
                   <div class="row">
-                     <div class="col-md-12"><i class="flaticon-photo246"></i></div>
+                     <div class="col-md-4">
+                        <p><label>Name*</label><input type="text" name="your-name" value="" size="60" class="" aria-required="true" aria-invalid="false"></p>
+                     </div>
+                     <div class="col-md-4">
+                        <p><label>Email*</label><input type="text" name="your-email" value="" size="60" class="" aria-required="true" aria-invalid="false"></p>
+                     </div>
+                     <div class="col-md-4">
+                        <p><label>Website</label><input type="text" name="your-website" value="" size="60" class="" aria-required="true" aria-invalid="false"></p>
+                     </div>
                      <div class="col-md-12">
-                        <div class="dividewhite1"></div>
-                        <h5 class="font-accident-one-bold uppercase">Creative</h5>
-                        <p class="small">
-                           For extreme size changes, we may want to change the layout altogether, either through a
-                           separate style sheet or, more efficiently, through a CSS media query.
-                        </p>
+                        <p><label>Message</label><textarea name="your-message" cols="60" rows="3" class="" aria-invalid="false"></textarea></p>
                      </div>
                   </div>
-                  <div class="divider-dynamic"></div>
-               </div>
-               <div class="col-md-3 infoblock text-center wow fadeInUp" data-wow-delay="0.6s" data-wow-offset="10">
-                  <div class="row">
-                     <div class="col-md-12"><i class="flaticon-pie-graph"></i></div>
-                     <div class="col-md-12">
-                        <div class="dividewhite1"></div>
-                        <h5 class="font-accident-one-bold uppercase">Self-motivated</h5>
-                        <p class="small">
-                           It is possible to shrink things proportionally and rearrange elements as necessary to make
-                           everything fit (reasonably well) as a screen gets smaller.
-                        </p>
-                     </div>
-                  </div>
-                  <div class="divider-dynamic"></div>
-               </div>
-               <div class="col-md-3 infoblock text-center wow fadeInUp" data-wow-delay="0.6s" data-wow-offset="10">
-                  <div class="row">
-                     <div class="col-md-12"><i class="flaticon-clocks18"></i></div>
-                     <div class="col-md-12">
-                        <div class="dividewhite1"></div>
-                        <h5 class="font-accident-one-bold uppercase">Punctual</h5>
-                        <p class="small">
-                           Below we have a few examples of responsive Web design in practice today. For many of these
-                           websites, there is more variation.
-                        </p>
-                     </div>
-                  </div>
-                  <div class="divider-dynamic"></div>
-               </div>
-               <div class="col-md-3 infoblock text-center wow fadeInRight" data-wow-delay="0.6s" data-wow-offset="10">
-                  <div class="row">
-                     <div class="col-md-12"><i class="flaticon-stats47"></i></div>
-                     <div class="col-md-12">
-                        <div class="dividewhite1"></div>
-                        <h5 class="font-accident-one-bold uppercase">Multitask</h5>
-                        <p class="small">
-                           One major problem that needs to be solved with responsive Web design is working with images.
-                           There are a number of techniques.
-                        </p>
-                     </div>
-                  </div>
-                  <div class="divider-dynamic"></div>
-               </div>
+                  <div class="dividewhite2"></div>
+                  <p><button type="button" class="btn btn-lg btn-lgr-str">Post Comment</button></p>
+               </form>
             </div>
 
-            <div class="dividewhite2"></div>
 
          </div>
+         <div class="dividewhite8"></div>
 
       </section>
-      <!-- /§Details Block -->
-
-      <!-- Timeline Block -->
-      <section id="timeline-vertical" class="inner-section">
-
-         <div class="container-fluid nopadding">
-
-            <div class="text-center wow fadeInDown" data-wow-delay="0.6s" data-wow-offset="10">
-               <h3 class="font-accident-two-normal uppercase">Professional Timeline</h3>
-               <h5 class="font-accident-one-bold uppercase hovercolor">Working hard and making the success</h5>
-               <div class="dividewhite1"></div>
-               <p class="small fontcolor-medium">
-                  Customize your website as you want using different colors and 100% free fonts. Build it from pieces and
-                  blocks as simple as Lego. <br>
-                  Electronic Website Template is fully responsive, looks and works perfect on any device.
-               </p>
-            </div>
-
-            <div class="dividewhite4"></div>
-
-            <ul class="timeline-vert timeline-light">
-               <li>
-                  <div class="timeline-badge primary"><i class="flaticon-clocks18"></i></div>
-                  <div class="timeline-panel wow fadeInLeft" data-wow-delay="0.3s" data-wow-offset="10">
-                     <p class="timeline-time fontcolor-invert"><i class="glyphicon glyphicon-time"></i> Aug 2010 - Nov 2012</p>
-                     <div class="timeline-photo timeline-bg01-01"></div>
-                     <div class="timeline-heading">
-                        <h3 class="font-accident-two-normal uppercase">Bluepixel LLC, London</h3>
-                        <h6 class="uppercase">Junior Designer</h6>
-                     </div>
-                  </div>
-               </li>
-               <li class="timeline-inverted">
-                  <div class="timeline-badge success"><i class="flaticon-graduation61"></i></div>
-                  <div class="timeline-panel wow fadeInRight" data-wow-delay="0.3s" data-wow-offset="10">
-                     <p class="timeline-time fontcolor-invert"><i class="glyphicon glyphicon-time"></i> March 2013 - Jan 2014</p>
-                     <div class="timeline-photo timeline-bg02-01"></div>
-                     <div class="timeline-heading">
-                        <h3 class="font-accident-two-normal uppercase">Rocket Media, Berlin</h3>
-                        <h6 class="uppercase">Senior Designer</h6>
-                     </div>
-                  </div>
-               </li>
-               <li>
-                  <div class="timeline-badge danger"><i class="flaticon-pens15"></i></div>
-                  <div class="timeline-panel wow fadeInLeft" data-wow-delay="0.3s" data-wow-offset="10">
-                     <p class="timeline-time fontcolor-invert"><i class="glyphicon glyphicon-time"></i> Jul 2014 - Sep 2015</p>
-                     <div class="timeline-photo timeline-bg03-01"></div>
-                     <div class="timeline-heading">
-                        <h3 class="font-accident-two-normal uppercase">Digital Frog, Wien</h3>
-                        <h6 class="uppercase">Art Director</h6>
-                     </div>
-                  </div>
-               </li>
-               <li class="timeline-inverted info">
-                  <div class="timeline-badge warning"><i class="flaticon-profile5"></i></div>
-                  <div class="timeline-panel wow fadeInRight" data-wow-delay="0.3s" data-wow-offset="10">
-                     <p class="timeline-time fontcolor-invert"><i class="glyphicon glyphicon-time"></i> Sep 2015 - ...</p>
-                     <div class="timeline-photo timeline-bg04-01"></div>
-                     <div class="timeline-heading">
-                        <h3 class="font-accident-two-normal uppercase">Melted Digital, Paris</h3>
-                        <h6 class="uppercase">Head of UX Department</h6>
-                     </div>
-                  </div>
-               </li>
-
-            </ul>
-
-            <div class="text-center">
-               <a href="#!" class="btn btn-lgr-str">Learn More</a>
-            </div>
-
-            <div class="dividewhite6"></div>
-
-         </div>
-
-      </section>
-      <!-- /Timeline Block -->
+      <!-- /Blog Block -->
 
    </div>
 
