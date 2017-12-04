@@ -163,7 +163,7 @@
                            <figcaption>
                               <div class="post-meta"><span>by <a href="#!">Sam Anderson</a>,</span> <span>March 16, 2015</span></div>
                               <div class="post-header">
-                                 <h5><a href="blogpost.html">My Friend's new album design</a></h5>
+                                 <h5><a href="blogpost.jsp">My Friend's new album design</a></h5>
                               </div>
                               <div class="post-entry">
                                  <p>Aliquam gravida tincidunt congue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas</p>
@@ -171,7 +171,7 @@
                               <div class="post-tag pull-left">
                                  <span><a href="#branding" data-filter=".branding">Branding</a>,</span><span><a href="#design" data-filter=".design">Design</a></span>
                               </div>
-                              <div class="post-more-link pull-right"><a href="blogpost.html">More<i class="fa fa-long-arrow-right right"></i></a></div>
+                              <div class="post-more-link pull-right"><a href="blogpost.jsp">More<i class="fa fa-long-arrow-right right"></i></a></div>
                            </figcaption>
                         </figure>
                      </div>
@@ -186,7 +186,7 @@
                            <figcaption>
                               <div class="post-meta"><span>by <a href="#!">Sam Anderson</a>,</span> <span>March 16, 2015</span></div>
                               <div class="post-header">
-                                 <h5><a href="blogpost.html">Funny Things done</a></h5>
+                                 <h5><a href="blogpost.jsp">Funny Things done</a></h5>
                               </div>
                               <div class="post-entry">
                                  <p>Aliquam gravida tincidunt congue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas</p>
@@ -194,7 +194,7 @@
                               <div class="post-tag pull-left">
                                  <span><a href="#branding" data-filter=".branding">Branding</a></span>
                               </div>
-                              <div class="post-more-link pull-right"><a href="blogpost.html">More<i class="fa fa-long-arrow-right right"></i></a></div>
+                              <div class="post-more-link pull-right"><a href="blogpost.jsp">More<i class="fa fa-long-arrow-right right"></i></a></div>
                            </figcaption>
                         </figure>
                      </div>
@@ -209,7 +209,7 @@
                            <figcaption>
                               <div class="post-meta"><span>by <a href="#!">Sam Anderson</a>,</span> <span>March 16, 2015</span></div>
                               <div class="post-header">
-                                 <h5><a href="blogpost.html">Crazy Frod needs help</a></h5>
+                                 <h5><a href="blogpost.jsp">Crazy Frod needs help</a></h5>
                               </div>
                               <div class="post-entry">
                                  <p>Aliquam gravida tincidunt congue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas</p>
@@ -217,7 +217,7 @@
                               <div class="post-tag pull-left">
                                  <span><a href="#branding" data-filter=".branding">Branding</a></span>
                               </div>
-                              <div class="post-more-link pull-right"><a href="blogpost.html">More<i class="fa fa-long-arrow-right right"></i></a></div>
+                              <div class="post-more-link pull-right"><a href="blogpost.jsp">More<i class="fa fa-long-arrow-right right"></i></a></div>
                            </figcaption>
                         </figure>
                      </div>
@@ -232,7 +232,7 @@
                            <figcaption>
                               <div class="post-meta"><span>by <a href="#!">Sam Anderson</a>,</span> <span>March 16, 2015</span></div>
                               <div class="post-header">
-                                 <h5><a href="blogpost.html">Old man crying</a></h5>
+                                 <h5><a href="blogpost.jsp">Old man crying</a></h5>
                               </div>
                               <div class="post-entry">
                                  <p>Aliquam gravida tincidunt congue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas</p>
@@ -240,7 +240,7 @@
                               <div class="post-tag pull-left">
                                  <span><a href="#branding" data-filter=".branding">Branding</a>,</span><span><a href="#design" data-filter=".design">Design</a></span>
                               </div>
-                              <div class="post-more-link pull-right"><a href="blogpost.html">More<i class="fa fa-long-arrow-right right"></i></a></div>
+                              <div class="post-more-link pull-right"><a href="blogpost.jsp">More<i class="fa fa-long-arrow-right right"></i></a></div>
                            </figcaption>
                         </figure>
                      </div>
@@ -255,7 +255,7 @@
                            <figcaption>
                               <div class="post-meta"><span>by <a href="#!">Sam Anderson</a>,</span> <span>March 16, 2015</span></div>
                               <div class="post-header">
-                                 <h5><a href="blogpost.html">The rusted cars bumping</a></h5>
+                                 <h5><a href="blogpost.jsp">The rusted cars bumping</a></h5>
                               </div>
                               <div class="post-entry">
                                  <p>Aliquam gravida tincidunt congue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas</p>
@@ -263,7 +263,7 @@
                               <div class="post-tag pull-left">
                                  <span><a href="#branding" data-filter=".branding">Branding</a></span>
                               </div>
-                              <div class="post-more-link pull-right"><a href="blogpost.html">More<i class="fa fa-long-arrow-right right"></i></a></div>
+                              <div class="post-more-link pull-right"><a href="blogpost.jsp">More<i class="fa fa-long-arrow-right right"></i></a></div>
                            </figcaption>
                         </figure>
                      </div>
@@ -278,7 +278,7 @@
                            <figcaption>
                               <div class="post-meta"><span>by <a href="#!">Sam Anderson</a>,</span> <span>March 16, 2015</span></div>
                               <div class="post-header">
-                                 <h5><a href="blogpost.html">Turn on the equalizer</a></h5>
+                                 <h5><a href="blogpost.jsp">Turn on the equalizer</a></h5>
                               </div>
                               <div class="post-entry">
                                  <p>Aliquam gravida tincidunt congue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas</p>
@@ -286,7 +286,7 @@
                               <div class="post-tag pull-left">
                                  </span><span><a href="#design" data-filter=".design">Design</a></span>
                               </div>
-                              <div class="post-more-link pull-right"><a href="blogpost.html">More<i class="fa fa-long-arrow-right right"></i></a></div>
+                              <div class="post-more-link pull-right"><a href="blogpost.jsp">More<i class="fa fa-long-arrow-right right"></i></a></div>
                            </figcaption>
                         </figure>
                      </div>
@@ -301,7 +301,7 @@
                            <figcaption>
                               <div class="post-meta"><span>by <a href="#!">Sam Anderson</a>,</span> <span>March 16, 2015</span></div>
                               <div class="post-header">
-                                 <h5><a href="blogpost.html">Commando shoots the boy</a></h5>
+                                 <h5><a href="blogpost.jsp">Commando shoots the boy</a></h5>
                               </div>
                               <div class="post-entry">
                                  <p>Aliquam gravida tincidunt congue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas</p>
@@ -309,7 +309,7 @@
                               <div class="post-tag pull-left">
                                  </span><span><a href="#design" data-filter=".design">Design</a></span>
                               </div>
-                              <div class="post-more-link pull-right"><a href="blogpost.html">More<i class="fa fa-long-arrow-right right"></i></a></div>
+                              <div class="post-more-link pull-right"><a href="blogpost.jsp">More<i class="fa fa-long-arrow-right right"></i></a></div>
                            </figcaption>
                         </figure>
                      </div>
@@ -324,7 +324,7 @@
                            <figcaption>
                               <div class="post-meta"><span>by <a href="#!">Sam Anderson</a>,</span> <span>March 16, 2015</span></div>
                               <div class="post-header">
-                                 <h5><a href="blogpost.html">Little girl beats the dog</a></h5>
+                                 <h5><a href="blogpost.jsp">Little girl beats the dog</a></h5>
                               </div>
                               <div class="post-entry">
                                  <p>Aliquam gravida tincidunt congue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas</p>
@@ -332,7 +332,7 @@
                               <div class="post-tag pull-left">
                                  <span><a href="#branding" data-filter=".branding">Branding</a>,</span><span><a href="#design" data-filter=".design">Design</a></span>
                               </div>
-                              <div class="post-more-link pull-right"><a href="blogpost.html">More<i class="fa fa-long-arrow-right right"></i></a></div>
+                              <div class="post-more-link pull-right"><a href="blogpost.jsp">More<i class="fa fa-long-arrow-right right"></i></a></div>
                            </figcaption>
                         </figure>
                      </div>
