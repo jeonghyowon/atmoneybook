@@ -94,22 +94,22 @@
 
             <ul id="nav" class="row nopadding cd-side-navigation">
                <li class="col-xs-4 col-sm-2 nopadding menuitem green">
-                  <a href="index.html" class="hvr-sweep-to-bottom"><i class="flaticon-insignia"></i><span>home</span></a>
+                  <a href="index.jsp" class="hvr-sweep-to-bottom"><i class="flaticon-insignia"></i><span>home</span></a>
                </li>
                <li class="col-xs-4 col-sm-2 nopadding menuitem blue">
-                  <a href="resume.html" class="hvr-sweep-to-bottom"><i class="flaticon-graduation61"></i><span>resume</span></a>
+                  <a href="resume.jsp" class="hvr-sweep-to-bottom"><i class="flaticon-graduation61"></i><span>resume</span></a>
                </li>
                <li class="col-xs-4 col-sm-2 nopadding menuitem cyan">
-                  <a href="portfolio.html" class="hvr-sweep-to-bottom"><i class="flaticon-book-bag2"></i><span>portfolio</span></a>
+                  <a href="portfolio.jsp" class="hvr-sweep-to-bottom"><i class="flaticon-book-bag2"></i><span>portfolio</span></a>
                </li>
                <li class="col-xs-4 col-sm-2 nopadding menuitem orange">
-                  <a href="contacts.html" class="hvr-sweep-to-bottom"><i class="flaticon-placeholders4"></i><span>contacts</span></a>
+                  <a href="contacts.jsp" class="hvr-sweep-to-bottom"><i class="flaticon-placeholders4"></i><span>contacts</span></a>
                </li>
                <li class="col-xs-4 col-sm-2 nopadding menuitem red">
-                  <a href="feedback.html" class="hvr-sweep-to-bottom"><i class="flaticon-earphones18"></i><span>feedback</span></a>
+                  <a href="feedback.jsp" class="hvr-sweep-to-bottom"><i class="flaticon-earphones18"></i><span>feedback</span></a>
                </li>
                <li class="col-xs-4 col-sm-2 nopadding menuitem yellow">
-                  <a href="blog.html" class="hvr-sweep-to-bottom"><i class="flaticon-pens15"></i><span>blog</span></a>
+                  <a href="blog.jsp" class="hvr-sweep-to-bottom"><i class="flaticon-pens15"></i><span>blog</span></a>
                </li>
             </ul>
 
