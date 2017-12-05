@@ -2,7 +2,7 @@
     pageEncoding="UTF-8"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en">
-<!--[if IE 9]>
+<!--[if IE 9] test>
 <html class="ie9" lang="en">    <![endif]-->
 <!--[if IE 8]>
 <html class="ie8" lang="en">    <![endif]-->
@@ -11,7 +11,7 @@
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name=viewport content="width=device-width, initial-scale=1">
 
-   <title>Gridus vCard | Feedback</title>
+   <title>Home</title>
 
    <meta name="description" content="Gridus vCard HTML Template is the professional responsive personal website template, based on the latest Bootstrap 3">
    <meta name="keywords" content="html5, template, website, responsive, bootstrap">
@@ -26,7 +26,7 @@
    <link href="resources/vendor/mfp/css/magnific-popup.css"             property='stylesheet' rel="stylesheet" type="text/css" media="screen"/>   
    <!-- Remove this for disable demo panel styles -->
    <!--<link href="resume.jsp/vendor/styleselector/styleselector.css"        property='stylesheet' rel="stylesheet" type="text/css" media="screen"/>-->
-   <!-- Custom styles --> 
+   <!-- Custom styles -->
    <link href="resources/custom/css/style.css"                          property='stylesheet' rel="stylesheet" type="text/css" media="screen"/>
 
    <style>
@@ -44,7 +44,6 @@
 </head>
 
 <body class="boxed">
-
 
 <!--Pre-Loader-->
 <div id="preloader"></div>
@@ -124,138 +123,193 @@
 <!-- Container -->
 <div class="content-wrap">
 
-   <div id="feedback" class="inner-content">
+   <section id="homesection" class="container-fluid nopadding">
 
-      <section id="page-title" class="inner-section">
-         <div class="container-fluid nopadding wow fadeInRight" data-wow-delay="0.4s" data-wow-offset="10">
-            <h2 class="font-accident-two-normal uppercase">Feedback</h2>
-            <h5 class="font-accident-one-bold hovercolor uppercase">Hard-working person on the way to the success...</h5>
-            <p class="small fontcolor-medium">
-               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id metus purus. Ut vulputate, est vel tincidunt mattis, orci neque iaculis lectus, et interdum quam felis vel tortor. Fusce ultrices dui quis nunc dignissim faucibus. Ut ac odio quis nibh viverra fringilla ac id nisi. Suspendisse tincidunt augue quis ligula cursus, non efficitur ligula faucibus. Mauris id neque maximus, tincidunt metus et, sodales nulla.
-            </p>
-         </div>
-      </section>
+      <div class="m-details row nopadding skin">
 
-      <!-- Feedback Block -->
-      <section class="inner-section feedback feedback-light">
+         <div class="col-md-12 nopadding">
 
-         <div class="container-fluid nopadding">
+            <div class="row nopadding">
 
-            <div class="row">
+               <div class="col-md-8 nopadding ">
 
-               <div class="col-md-2">&nbsp;</div>
-               <div class="col-md-8 e-centered wow fadeInDown" data-wow-delay="0.6s" data-wow-offset="10">
-                  <div class="dividewhite2"></div>
-                  <div id="form-messages"></div>
-                  <form id="ajax-contact" method="post" action="resources/custom/php/form.php" class="wpcf7-form">
-                     <div class="field">
-                        <!--<label for="name">Name:</label>-->
-                        <input type="text" id="name" name="name" placeholder="Name" required>
+                  <div class="row nopadding">
+
+                     <div class="col-md-12 fullwidth padding-50 wow fadeInDown" data-wow-delay="0.2s" data-wow-offset="10">
+                        <div class="row nopadding">
+                           <h3 class="font-accident-two-normal uppercase">About me</h3>
+                           <div class="quote">
+                              <h5 class="font-accident-one-bold hovercolor uppercase">Hard-working person on the way to the success...</h5>
+                              <div class="dividewhite1"></div>
+                              <p class="small">
+                                 Customize your website as you want using different colors and 100% free fonts.
+                              </p>
+                           </div>
+                        </div>
+                        <div class="divider-dynamic"></div>
+                        <div class="row nopadding">
+                           <div class="col-md-4 infoblock nopadding">
+                              <div class="row">
+                                 <div class="col-sm-1 col-md-3"><i class="flaticon-photo246"></i><div class="dividewhite1"></div></div>
+                                 <div class="col-sm-11 col-md-9 ">
+                                    <h5 class="font-accident-one-bold uppercase">Creative</h5>
+                                    <p class="small">
+                                       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet hendrerit dolor, at lacinia mi.
+                                    </p>
+                                 </div>
+                              </div>
+                              <div class="divider-dynamic"></div>
+                           </div>
+                           <div class="col-md-4 infoblock nopadding">
+                              <div class="row">
+                                 <div class="col-sm-1 col-md-3 "><i class="flaticon-stats47"></i><div class="dividewhite1"></div></div>
+                                 <div class="col-sm-11 col-md-9 ">
+                                    <h5 class="font-accident-one-bold uppercase">Self-motivated</h5>
+                                    <p class="small">
+                                       Curabitur sit amet laoreet leo. Maecenas eget pulvinar arcu. Quisque fermentum nulla non urna placerat.
+                                    </p>
+                                 </div>
+                              </div>
+                              <div class="divider-dynamic"></div>
+                           </div>
+                           <div class="col-md-4 infoblock nopadding">
+                              <div class="row">
+                                 <div class="col-sm-1 col-md-3"><i class="flaticon-clocks18"></i><div class="dividewhite1"></div></div>
+                                 <div class="col-sm-11 col-md-9">
+                                    <h5 class="font-accident-one-bold uppercase">Punctual</h5>
+                                    <p class="small">
+                                       Sed scelerisque elit eget eros consectetur varius. Suspendisse laoreet rhoncus pellentesque.
+                                    </p>
+                                 </div>
+                              </div>
+                              <div class="divider-dynamic"></div>
+                           </div>
+                        </div>
                      </div>
 
-                     <div class="field">
-                        <!--<label for="email">Email:</label>-->
-                        <input type="email" id="email" name="email" placeholder="Email" required>
-                     </div>
+                  </div>
 
-                     <div class="field">
-                        <!--<label for="message">Message:</label>-->
-                        <textarea id="message" name="message" placeholder="Message" rows="7" cols="30"  required></textarea>
-                     </div>
+               </div>
 
+               <div class="col-md-4 personal nopadding l-grey">
+                  <div class="padding-50 wow fadeInRight" data-wow-delay="0.4s" data-wow-offset="10">
+                     <h3 class="font-accident-two-normal uppercase">Personal Info</h3>
                      <div class="dividewhite2"></div>
-
-                     <div class="field text-center">
-                        <button type="submit" class="btn btn-lg btn-lgr-str">Send Message</button>
+                     <div>
+                        <div class="fullwidth box">
+                           <div class="one"><p class="small font-regular-bold uppercase">Name:</p></div>
+                           <div class="two"><p class="small">Samuel Anderson</p></div>
+                        </div>
+                        <div class="fullwidth box">
+                           <div class="one"><p class="small font-regular-bold uppercase text-nowrap">Date of Birth:</p></div>
+                           <div class="two"><p class="small">03/12/1980</p></div>
+                        </div>
+                        <div class="fullwidth box">
+                           <div class="one"><p class="small font-regular-bold uppercase">Address:</p></div>
+                           <div class="two"><p class="small">1234, Direct drive, Daytona Beach, Fl, USA</p></div>
+                        </div>
+                        <div class="fullwidth box">
+                           <div class="one"><p class="small font-regular-bold uppercase">Phone:</p></div>
+                           <div class="two"><p class="small">1 234 567 89 10</p></div>
+                        </div>
+                        <div class="fullwidth box">
+                           <div class="one"><p class="small font-regular-bold uppercase">Email:</p></div>
+                           <div class="two"><p class="small">james@anderson.com</p></div>
+                        </div>
                      </div>
-                  </form>
+                     <div class="dividewhite4"></div>
+                  </div>
                </div>
-               <div class="col-md-2">&nbsp;</div>
-               <div class="col-md-12 divider-dynamic"></div>
+
             </div>
 
          </div>
 
-         <div class="dividewhite6"></div>
+      </div>
 
-      </section>
-      <!-- /Feedback Block -->
+      <div class="row nopadding cyan">
 
-      <!-- Testmonials Block -->
-      <section id="testmonials" class="inner-section color01">
-         <div class="container-fluid nopadding">
-
-            <div class="wow fadeInDown" data-wow-delay="0.4s" data-wow-offset="10">
-               <h3 class="font-accident-two-normal uppercase text-center">Testmonials</h3>
-               <h5 class="font-accident-one-bold uppercase hovercolor text-center">Working hard and making the success</h5>
-               <div class="dividewhite1"></div>
-               <p class="small fontcolor-medium text-center">
-                  Customize your website as you want using different colors and 100% free fonts. Build it from pieces and
-                  blocks as simple as Lego. <br>
-                  Electronic Website Template is fully responsive, looks and works perfect on any device.
-               </p>
+         <div class="col-md-4 pro-experience nopadding height-400">
+            <div class="padding-50 wow fadeInRight" data-wow-delay="0.6s" data-wow-offset="5">
+               <h3 class="font-accident-two-normal uppercase fontcolor-invert">Pro. Experience</h3>
+               <div class="dividewhite2"></div>
+               <div class="experience">
+                  <ul class="">
+                     <li class="date">02/2008 - 04/2010</li>
+                     <li class="company uppercase">
+                        <a>
+                           ABC Brodcast Inc. New York.
+                        </a>
+                     </li>
+                     <li class="position">Junior Designer</li>
+                  </ul>
+                  <ul class="">
+                     <li class="date">04/2010 - 06/2012</li>
+                     <li class="company uppercase">
+                        <a>
+                           Leo Burnett London Office
+                        </a>
+                     </li>
+                     <li class="position">Senior Designer</li>
+                  </ul>
+                  <ul class="">
+                     <li class="date">06/2012 - present</li>
+                     <li class="company uppercase">
+                        <a>
+                           Google Inc. Dublin.
+                        </a>
+                     </li>
+                     <li class="position">UI/UX Designer</li>
+                  </ul>
+               </div>
+               <a href="#!"><i class="flaticon-three-1"></i></a>
             </div>
-
-            <div class="dividewhite4"></div>
-
-            <div class="row">
-               <div class="col-md-4 wow fadeInLeft" data-wow-delay="0.5s" data-wow-offset="10">
-                  <div class="row">
-                     <div class="col-xs-3">
-                        <img src="resources/custom/images/userpic04.jpg" alt="Rachel James Johnes" class="img-responsive img-circle author-userpic">
-                     </div>
-                     <div class="col-xs-9">
-                        <h5 class="font-accident-one-bold text-left uppercase">Hans Zimmer</h5>
-                        <p class="small hovercolor">Apple Inc.</p>
-                        <p class="text-left small">
-                           With more devices come varying screen resolutions, definitions and orientations. New devices
-                           with new screen sizes are being developed every day, and each of these devices may be able...
-                        </p>
-                     </div>
-                  </div>
-                  <div class="divider-dynamic"></div>
-               </div>
-               <div class="col-md-4 wow fadeInUp" data-wow-delay="0.5s" data-wow-offset="10">
-                  <div class="row">
-                     <div class="col-xs-3">
-                        <img src="resources/custom/images/userpic02.jpg" alt="Rachel James Johnes" class="img-responsive img-circle author-userpic">
-                     </div>
-                     <div class="col-xs-9">
-                        <h5 class="font-accident-one-bold text-left uppercase">Mario Quinn</h5>
-                        <p class="small hovercolor">Adobe</p>
-                        <p class="text-left small">
-                           With more devices come varying screen resolutions, definitions and orientations. New devices
-                           with new screen sizes are being developed every day, and each of these devices
-                        </p>
-                     </div>
-                  </div>
-                  <div class="divider-dynamic"></div>
-               </div>
-               <div class="col-md-4 wow fadeInRight" data-wow-delay="0.5s" data-wow-offset="10">
-                  <div class="row">
-                     <div class="col-xs-3">
-                        <img src="resources/custom/images/userpic03.jpg" alt="Rachel James Johnes" class="img-responsive img-circle author-userpic">
-                     </div>
-                     <div class="col-xs-9">
-                        <h5 class="font-accident-one-bold text-left uppercase">Karl Romm</h5>
-                        <p class="small hovercolor">BMW</p>
-                        <p class="text-left small">
-                           With more devices come varying screen resolutions, definitions and orientations. New devices
-                           with new screen sizes are being developed every day, and each of these devices
-                        </p>
-                     </div>
-                  </div>
-                  <div class="divider-dynamic"></div>
-               </div>
-            </div>
-
-            <div class="dividewhite6"></div>
-
          </div>
-      </section>
-      <!-- /Testmonials Block -->
 
-   </div>
+         <div class="col-md-8 circle-skills nopadding height-400 blue">
+            <div class="padding-50 wow fadeInLeft" data-wow-delay="0.6s" data-wow-offset="5">
+               <h3 class="font-accident-two-normal uppercase fontcolor-invert">My Professional skills</h3>
+               <div class="row">
+                  <div class="col-sm-4 nopadding">
+                     <div class="progressbar" data-animate="false">
+                        <div class="circle font-accident-one-normal fontcolor-invert" data-percent="72.5">
+                           <div></div>
+                           <h4 class="font-accident-one-normal uppercase">Prototyping</h4>
+                           <p class="small">
+                              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet hendrerit dolor, at lacinia mi. Integer lacinia at elit ut placerat.
+                           </p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-sm-4 nopadding">
+                     <div class="progressbar" data-animate="false">
+                        <div class="circle font-accident-one-normal fontcolor-invert" data-percent="94.5">
+                           <div></div>
+                           <h4 class="font-accident-one-normal uppercase">Design</h4>
+                           <p class="small">
+                              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet hendrerit dolor, at lacinia mi. Integer lacinia at elit ut placerat.
+                           </p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-sm-4 nopadding">
+                     <div class="progressbar" data-animate="false">
+                        <div class="circle font-accident-one-normal fontcolor-invert" data-percent="30.5">
+                           <div></div>
+                           <h4 class="font-accident-one-normal uppercase">Development</h4>
+                           <p class="small">
+                              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet hendrerit dolor, at lacinia mi. Integer lacinia at elit ut placerat.
+                           </p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+
+      </div>
+
+   </section>
 
 </div>
 
@@ -318,10 +372,11 @@
 <script src="resources/vendor/wow/wow.min.js"                           type="text/javascript"></script>
 <script src="resources/vendor/pjax/jquery.pjax.js"                      type="text/javascript"></script>
 <script src="https://maps.google.com/maps/api/js?key=AIzaSyDWpIfYiPdFevrTvkPZ_8058bzAkWKqJSc" type="text/javascript"></script>
+
 <!-- Remove this for disable demo panel script -->
 <!--<script src="resources/vendor/styleselector/styleselector.js"           type="text/javascript"></script>-->
 <!-- Custom scripts -->
 <script src="resources/custom/js/custom.js"                             type="text/javascript"></script>
-
 </body>
+
 </html>
