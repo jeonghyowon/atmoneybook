@@ -422,7 +422,7 @@
 <script src="resources/vendor/anicounter/jquery.counterup.min.js"       type="text/javascript"></script>
 <script src="resources/vendor/wow/wow.min.js"                           type="text/javascript"></script>
 <script src="resources/vendor/pjax/jquery.pjax.js"                      type="text/javascript"></script>
-<script src="https://maps.google.com/maps/api/js"                    	type="text/javascript"></script>
+<script src="https://maps.google.com/maps/api/js?key=AIzaSyDWpIfYiPdFevrTvkPZ_8058bzAkWKqJSc" type="text/javascript"></script>
 <!-- Remove this for disable demo panel script -->
 <!--<script src="resources/vendor/styleselector/styleselector.js"           type="text/javascript"></script>-->
 <!-- Custom scripts -->
