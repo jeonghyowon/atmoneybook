@@ -13,8 +13,7 @@
 		<org.aspectj-version>1.6.10</org.aspectj-version>
 		<org.slf4j-version>1.6.6</org.slf4j-version>
 	</properties>
-	<dependencies>
-	
+	<dependencies>	
 
 		<!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind -->
 		<dependency>
@@ -56,8 +55,7 @@
 			<groupId>org.mybatis</groupId>
 			<artifactId>mybatis</artifactId>
 			<version>3.4.5</version>
-		</dependency>
-		
+		</dependency>		
 
 		<!-- spring mybatis연동 ... https://mvnrepository.com/artifact/org.mybatis/mybatis-spring -->
 		<dependency>
