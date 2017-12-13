@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.cafe24.atmoneybook.employee.EmployeeMapper">
+
+	<resultMap type="com.cafe24.atmoneybook.employee.Employee" id="resultEmployee">
+		<result property="employee_no" column="employee_no" />
+		<result property="name" column="name" />
+		<result property="age" column="age" />
+	</resultMap>
+	
+	<insert id="memberinsert" parameterType="com.cafe24.atmoneybook.employee.Employee">
+		INSERT INTO
+		EMPLOYEE(employee_no, name, age)
+		VALUES(#{employee_no}, #{name}, #{age})
+	</insert>
+	<select id="memberList" parameterType="com.cafe24.atmoneybook.employee.Employee" resultMap="resultEmployee">
+		select employee_no, name, age from EMPLOYEE
+	</select>
+	
+</mapper>
