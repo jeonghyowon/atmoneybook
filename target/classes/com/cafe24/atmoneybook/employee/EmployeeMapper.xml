@@ -13,7 +13,7 @@
 		EMPLOYEE(employee_no, name, age)
 		VALUES(#{employee_no}, #{name}, #{age})
 	</insert>
-	<select id="memberList" parameterType="com.cafe24.atmoneybook.employee.Employee" resultMap="resultEmployee">
+	<select id="employeeList" parameterType="com.cafe24.atmoneybook.employee.Employee" resultMap="resultEmployee">
 		select employee_no, name, age from EMPLOYEE
 	</select>
 	
