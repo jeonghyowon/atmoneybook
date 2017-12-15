@@ -15,6 +15,6 @@
 
 	<a href="./MemberList" > 멤버 리스트 보기</a><br><br>
 	<a href="./EmployeeList" > 직원 리스트 보기</a><br><br>
-	<a href="./ManagerList" > 매니저 리스트 보기</a><br><br>
+	<a href="./Teacher" > 교사 리스트 보기</a><br><br>
 </body>
 </html>
