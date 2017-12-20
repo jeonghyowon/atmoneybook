@@ -22,8 +22,7 @@
 				<td>${member.no}</td>
 				<td>${member.name}</td>
 				<td>${member.age}</td>
-				<td><a
-					href="/memberupdate?no=${member.no}"
+				<td><a href="/memberupdate?no=${member.no}"
 					class="btn_add">수정</a></td>
 				<td><a href="/memberdelete?no=${member.no}"
 					class="btn_add">삭제</a></td>

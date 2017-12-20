@@ -13,8 +13,12 @@
 
 <P> ${serverTime} </P>
 
+	<a href="./MemberaddForm"> 멤버 등록하기</a><br><br>
 	<a href="./MemberList" > 멤버 리스트 보기</a><br><br>
 	<a href="./EmployeeList" > 직원 리스트 보기</a><br><br>
 	<a href="./Teacher" > 교사 리스트 보기</a><br><br>
+	<a href="./StudentInsertForm" > 학생 등록하기</a><br><br>
+	<a href="./StudentList" > 학생 리스트 보기</a><br><br>
+	
 </body>
 </html>

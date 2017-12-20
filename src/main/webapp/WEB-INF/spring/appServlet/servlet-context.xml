@@ -22,11 +22,20 @@
 
 	<!-- 컴퓨터에서 작업할때 사용해야하는 url : jdbc:mysql://atmoneybook.cafe24.com:3306/atmoneybook -->
 	<!-- 홈페이지 Uplode 할때 사용되는 url : jdbc:mysql://localhost:3306/atmoneybook -->
+	<!-- 프로젝트 사용할때 : name="username" value="atmoneybook"   -->
+	<!-- 프로젝트 사용할때 :  name="password" value="dw1fe2gr3ht4"  -->
+	
+	
+	<!-- 개인 컴퓨터로 사용할때 : jdbc:mysql://localhost:3306/test000 -->
+		<!-- 개인 컴퓨터로 사용할때 : name="username" value="root" -->
+		<!-- 개인 컴퓨터로 사용할때 : name="password" value="dw1fe2gr3ht4" -->
+	
+	
 
 	<bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource">
 		<property name="driverClassName" value="com.mysql.jdbc.Driver" />
-		<property name="url" value="jdbc:mysql://atmoneybook.cafe24.com:3306/atmoneybook" />
-		<property name="username" value="atmoneybook" />
+		<property name="url" value="jdbc:mysql://localhost:3306/test000" />
+		<property name="username" value="root" />
 		<property name="password" value="dw1fe2gr3ht4" />
 	</bean>
 

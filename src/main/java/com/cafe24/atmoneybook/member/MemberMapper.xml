@@ -9,8 +9,7 @@
 	</resultMap>
 
 	<insert id="memberinsert" parameterType="com.cafe24.atmoneybook.member.Member">
-		INSERT INTO
-		TEST(no, name, age)
+		INSERT INTO TEST(no, name, age)
 		VALUES(#{no}, #{name}, #{age})
 	</insert>
 	<select id="memberList" parameterType="com.cafe24.atmoneybook.member.Member" resultMap="resultMember">

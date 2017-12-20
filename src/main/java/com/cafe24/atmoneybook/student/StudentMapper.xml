@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.cafe24.atmoneybook.student.StudentMapper">
+	<resultMap type="com.cafe24.atmoneybook.student.Student" id="resultStudent">
+		<result property="student_no" column="student_no" />
+		<result property="name" column="name" />
+		<result property="age" column="age" />
+	</resultMap>
+	
+	<insert id="studentInsert" parameterType="com.cafe24.atmoneybook.student.Student">
+		INSERT INTO STUDENT(student_no, name, age)
+		VALUES(#{student_no}, #{name}, #{age})
+	</insert>
+	<select id="studentList" resultType ="com.cafe24.atmoneybook.student.Student" resultMap="resultStudent">
+		SELECT student_no, name, age from STUDENT
+	</select>
+</mapper>
+  

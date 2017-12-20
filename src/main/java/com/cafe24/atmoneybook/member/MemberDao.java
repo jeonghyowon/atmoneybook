@@ -19,5 +19,10 @@ public class MemberDao {
 		return sql.selectList(NS+"memberList");
 	}
 
+	public void memberAdd(Member member) {
+		System.out.println("멤버 등록처리 Dao");
+		
+		sql.insert(NS+"memberinsert", member);
+	}
 	
 }
